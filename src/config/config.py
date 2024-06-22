@@ -3,7 +3,7 @@ import pathlib
 import src
 from keras.optimizers import RMSprop
 
-epochs = 500
+epochs = 700
 
 mb_size = 2
 
